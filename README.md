@@ -1,2 +1,2 @@
 # Mario
-Javascript based Mario using Kaboom.js
+Mario Game using Kaboom.js!
